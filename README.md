@@ -35,12 +35,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limaraniray&show_icons=true&theme=default&hide_border=true" alt="Lima's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaraniray&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=limaraniray&cc=000&tc=fff&ic=fff&bc=000" alt="Lima's GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limaraniray&theme=default&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=limaraniray&theme=default&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaraniray&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
